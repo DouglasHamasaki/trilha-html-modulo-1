@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeiro Desafio</title>
+</head>
+<body>
+    <h1 id="inicio"><strong><u> Percuso do HTML </u></strong></h1>
+    <hr/>
+    <h2>Índice</h2>
+    <ul>
+     <li><a href="#oque"><i> é programação?</i></a></li>  
+<br/>
+     <li><a href="#quais"><i>Quais são as linguagens?</i></a></li>
+<br/>
+     <li><a href="#internet"><i>Como surgiu a internet!</i></a></li>
+<br/>
+     <li><a href="#html"><i>Oque é o HTML e suas Tags</i></a></li>
+<br/>
+     <li><a href="#referencias">Sites de referências</a></li>        
+    </ul>
+    <hr>
+
+    <h3 id="oque">Oque é programação?</h3>
+<blockquote>
+    <p>As linguagens de programação são métodos padronizados, agrupados por sintaxes e semânticas que formam um programa, com o intuito de dar comandos/instruções para o computador. Elas permitem que os programadores definam claramente os dados que um computador processa, como são armazenados e como são transmitidos, além de permitirem que os programadores escrevam algoritmos de maneira precisa.
+    </p>
+</blockquote>
+    <p>
+        As linguagens foram criadas para facilitar a interação humano computador, portanto, um código escrito pelo ser humano é traduzido para linguagem de máquina que assim instrui o computador ao que fazer. Pois imagine se o humano tivesse que escrever longas linhas de código, no entanto, completamente em <mark>binário</mark> (linguagem de máquina), isso seria péssimo para manutenções e o grau de aprendizagem se elevaria muito, a ponto de simplesmente não ter pessoas para trabalharem na área. Portanto, as linguagens de programação são projetadas com sintaxes de nível superior que são menos complexas de entender por programadores humanos, sendo ferramentas importantíssimas para a produtividade e rapidez.
+    </p>
+    <p>
+        Quando falamos de linguagens de programação muitos já devem ter se questionado: “como são criadas ou como funcionam as linguagens?”. A resposta dessa pergunta é muito ampla e pode ser respondida de diversas formas. Uma linguagem de programação não passa de um conjunto de regras para um programa que transformará o arquivo fonte em um novo conjunto de instruções que pode ser usado por uma máquina para executar o programa escrito no arquivo, esses programas são chamados de processadores de linguagem. Um tipo de processador de linguagem é o <mark>compilador(Compiladores)</mark>, em um compilador ele recebe um arquivo fonte, o processa, e tem como saída um arquivo que pode ser executado pela máquina. Outro tipo de processador de linguagem é o <mark>interpretador</mark>, onde ele recebe o arquivo fonte de programa e as entradas para esse programa e executa-o utilizando as entradas passadas.
+    </p>
+    <p>
+        Existem certas linguagens de programação cujo objetivo não é facilitar na escrita e manutenção do código, elas são criadas com intuitos diferentes, seja ela por pura arte, piada ou por curiosidade de ver se é possível usar algum conceito para criar programas.
+    </p>
+    <small><a href="#inicio"> Voltar</a></small>
+    <hr>
+
+    <h3 id="quais">Quais são as linguagens?</h3>
+<blockquote>
+    <h4><strong> muitas linguagens de programação, mas algumas das mais famosas são:</strong></h4>
+</blockquote>
+    <h5>C</h5>
+    <p>A linguagem C foi desenvolvida por Dennis Ritchie nos Laboratórios Bell Telephone para uso com o sistema operacional Unix. Foi chamado de C porque se baseava numa linguagem anterior chamada 'B'. Esta linguagem transformou o rumo de milhares de linguagens da programação, sendo base para quase todas que precederam sua criação, como por exemplo: C#, Java, JavaScript, Perl, PHP, Python…
+    </p>
+    <h5>Java</h5>
+    <p>
+        Uma equipe de programadores liderada por James Gosling na empresa Sun Microsystems e criaram a linguagem Java, uma das linguagens modernas da computação, que se tornou uma das mais importantes no mercado até os dias atuais.
+    </p>
+    <h5>JavaScript</h5>
+    <p>
+        Linguagem de programação interpretada e estruturada, criada por Brendan Eich, uma linguagem que revolucionou a web, junto com HTML e CSS, compõem as 3 principais linguagens do World Wide Web.Quase todos os principais sites usam JavaScript. Gmail, Adobe Photoshop, e Mozilla Firefox são alguns exemplos bem conhecidos.
+    </p>
+    <h5>PHP</h5>
+    <p>
+        Outra linguagem que veio para revolucionar a web, desenvolvido por Rasmus Lerdorf, PHP que significa ‘Hypertext Preprocessor’, foi utilizada para construção e manutenção de páginas web dinâmicas, assim como o desenvolvimento do lado do servidor. Algumas das maiores empresas de todo o mundo usam PHP incluindo Facebook, Wikipedia, Digg, WordPress, e Joomla.
+    </p>
+    <small><a href="#inicio"> Voltar</a></small>
+    <hr/>
+
+    <h3 id="internet">Como surgiu a internet</h3>  
+<blockquote>
+    <p>
+         A Internet surgiu nos anos 60, na época da <mark>Guerra Fria</mark>, nos Estados Unidos. O Departamento de Defesa americano pretendia criar uma rede de comunicação de computadores em pontos estratégicos. A intenção era descentralizar informações valiosas de forma que não fossem destruídas por bombardeios se estivessem localizadas em um único servidor
+    </p>
+</blockquote>
+    <p>Assim, a <mark>ARPA (Advanced Research Projects Agency)</mark>, uma das subdivisões do Departamento, criou uma rede conhecida por <mark>ARPANET</mark>, ligada por um backbone (“espinha dorsal”, isto é, estruturas de rede capazes de manipular grandes volumes de informações) que passava por debaixo da terra, o que dificultava sua destruição. O acesso à <mark>ARPANET</mark> era restrito a militares e pesquisadores, demorou chegar ao público em geral, pois temiam o mau uso da tecnologia por civis e países não-aliados.
+    </p>
+    <p>
+    No Brasil, a conexão de computadores por uma rede somente era possível para fins estatais. Em 1991, a comunidade acadêmica brasileira conseguiu, através do Ministério da Ciência e Tecnologia, acesso a redes de pesquisas internacionais.
+        <br/>
+    Em maio de 1995, a rede foi aberta para fins comerciais, ficando a cargo da iniciativa privada a exploração dos serviços. Hoje, para conectar seu computador, o usuário paga os serviços de um provedor de acesso ou tem conexão direta. 
+    </p>
+    <small><a href="#inicio">Voltar</a></small>
+    <hr>
+
+    <h3 id="html">Oque é o HTML e suas Tags?</h3>
+<blockquote>
+    <p>
+        HTML é a sigla para <mark>HyperText Markup Language (Linguagem de Marcação de Hipertexto, em inglês)</mark>. Foi criado na década de 1990 pelo físico britânico Tim Berners-Lee, considerado o “pai da web”, para auxiliar na formatação dos documentos de pesquisas compartilhados entre ele e seus colegas.
+    </p>
+</blockquote>
+    <p>
+        HTML é uma linguagem de marcação de hipertexto utilizada na criação de documentos e páginas da web. Os marcadores, chamados de “tags”, servem para indicar a função de cada elemento na página, como textos, imagens e vídeos, além de suas conexões com outros elementos (links) e como eles serão interpretados pelo navegador. Saiba mais sobre o que é HTML, quando foi criado e sua importância para a internet moderna.
+    </p>
+    
+    <p>
+        Com o desenvolvimento dos navegadores e a popularização da internet, o HTML passou a ser utilizado na criação de sites, tornando-se um dos pilares da “World Wide Web”. Atualmente, a tecnologia evoluiu e é utilizada em conjunto com outras ferramentas, como o CSS e o JavaScript, no desenvolvimento de sites e aplicativos web dinâmicos.
+    </p>
+    <small><a href="#inicio">Voltar</a></small>
+    <hr>
+
+    <h3 id = "referencias">Sites de referências</h3>
+    <ol>
+      <li><a href="https://tecnoblog.net/responde/o-que-e-html-guia-para-iniciantes/#:~:text=O%20HTML%20%C3%A9%20uma%20linguagem,multim%C3%ADdia%2C%20como%20imagens%20e%20v%C3%ADdeos.">Site 01</a></li>
+      <li><a href="https://brasilescola.uol.com.br/curiosidades/como-surgiu-a-internet.htm#:~:text=A%20Internet%20surgiu%20nos%20anos,de%20computadores%20em%20pontos%20estrat%C3%A9gicos.">Site 02</a></li>
+      <li><a href="https://wiki.inf.ufpr.br/computacao/doku.php?id=l:linguagens_de_programacao#:~:text=A%20primeira%20linguagem%20de%20programa%C3%A7%C3%A3o%20foi%20criada%20por%20Ada%20Lovelace,e%20usadas%20para%20diferentes%20prop%C3%B3sitos.">Site 03</a></li>
+    </ol>
+    <small><a href="#inicio">Voltar</a></small>
+    
+</body>
+</html>
